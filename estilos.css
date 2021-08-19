@@ -1,0 +1,39 @@
+* {
+   margin:0;
+   padding:0; 
+}
+
+h1{
+    font: bold 30px bolder
+}
+h2{
+    font-size: 14px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+header,section,footer,aside,nav,article, hgroup{
+    display:block
+}
+
+body{
+    text-align: center;
+}
+
+.agrupar{
+    width: 960px;
+    border: 1px solid black;
+    margin: auto;
+    }
+
+.header{
+    background-color: #fffbb9;
+    border: 1px solid #ff999f
+    padding:20px
+}
+
+.menu li{
+   list-style: none;
+   padding:5px;
+   font: 14px bold verdana;
+   display: inline-block;
+}
